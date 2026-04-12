@@ -1,0 +1,3 @@
+D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe
+D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe
+D:\InsungKim\Ongoing_paper\QA_aided_A5-GMR-Attack\Results_on_Classical\Windows_check\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe

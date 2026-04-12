@@ -1,0 +1,21 @@
+A5_GMR_2 Attack Results
+======================
+Test Number: 28
+Attack Success: False
+
+Executable Keys:
+  First:  [166, 310, 621, 956, 1041, 1345, 1719, 1821]
+  Second: [101, 364, 694, 829, 1160, 1410, 1773, 1976]
+
+Quantum Results:
+  Solver: hybrid_binary_quadratic_model_version2p
+  Energy: -8.0
+  Computation Time: 12.67s
+
+D-Wave Keys (1 found):
+  Key 1: [101, 364, 525, 829, 1160, 1410, 1569, 1964]
+
+Timing Information:
+  qpu_access_time: 102.436 ms
+  charge_time: 5330.728 ms
+  run_time: 5330.728 ms

@@ -1,0 +1,1511 @@
+﻿     0>$(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild을(를) 사용하여 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props을(를) 가져옵니다.
+       속성 재할당: $(MSBuildProjectExtensionsPath)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Microsoft.Common.props(56,5)의 "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\obj\"(이전 값: "obj\")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild을(를) 사용하여 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\*을(를) 가져옵니다.
+       "Configuration" 속성은 전역 속성이므로 수정할 수 없습니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       "Configuration" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "LangID" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionDir" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(WholeProgramOptimization)=D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj(53,5)의 "true"(이전 값: "false")
+       속성 재할당: $(CharacterSet)=D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj(54,5)의 "Unicode"(이전 값: "NotSet")
+       속성 재할당: $(WindowsSdkDir_10)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props(18,5)의 "C:\Program Files (x86)\Windows Kits\10\"(이전 값: "")
+       속성 재할당: $(NETFXSDK_Version)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props(46,5)의 "4.8"(이전 값: "4.8.1")
+       속성 재할당: $(NETFXKitsDir)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props(51,5)의 "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\"(이전 값: "")
+       속성 재할당: $(NETFXSDKDir)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props(54,5)의 "C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\"(이전 값: "")
+       속성 재할당: $(WindowsSDK_ExecutablePath_x86)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props(209,5)의 "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools"(이전 값: "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;")
+       속성 재할당: $(WindowsSDK_ExecutablePath_x64)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props(210,5)의 "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64"(이전 값: "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;")
+       속성 재할당: $(TargetExt)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(28,5)의 ".exe"(이전 값: "")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(89,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(90,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(91,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(92,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(93,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(94,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(95,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(96,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(97,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(98,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;;;;;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostArm64\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\arm\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\1042;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x86\1042;;;;;;;;;;;")
+       속성 재할당: $(MSBuild_ExecutablePath)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(125,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\")
+       속성 재할당: $(RemoteDebuggerDeployCppRuntime)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(155,5)의 "true"(이전 값: "false")
+       속성 재할당: $(MultiProcMaxCount)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props(215,5)의 "0"(이전 값: "")
+       속성 재할당: $(EspXtensions)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props(21,5)의 "EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "CppCoreCheck.dll;")
+       속성 재할당: $(EspXtensions)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props(24,5)의 "HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "EnumIndex.dll;CppCoreCheck.dll;")
+       속성 재할당: $(EspXtensions)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props(27,5)의 "VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;")
+       속성 재할당: $(ConcurrencyCheckPath)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props(31,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\ConcurrencyCheck.dll"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\ConcurrencyCheck.dll")
+       속성 재할당: $(EspXtensions)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props(33,5)의 "ConcurrencyCheck.dll;VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;")
+       속성 재할당: $(_PropertySheetDisplayName)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.unicodesupport.props(15,5)의 "Unicode Support"(이전 값: "Core Windows Libraries")
+       속성 재할당: $(_PropertySheetDisplayName)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props(15,5)의 "Application"(이전 값: "Unicode Support")
+       속성 재할당: $(_PropertySheetDisplayName)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WholeProgramOptimization.props(15,5)의 "Whole Program Optimization"(이전 값: "Application")
+       "SolutionExt" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(ExtensionsToDeleteOnClean)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(40,5)의 "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe.manifest;D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.tlb;D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.pdb;D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe;D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.bsc;D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.ilk;D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe.intermediate.manifest;x64\Release\A5-GMR-2-Attack.vcxproj.FileListAbsolute.txt"(이전 값: "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi")
+       속성 재할당: $(DebugType)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets(32,5)의 "none"(이전 값: "")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       "Configuration" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(_DocumentationFileProduced)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(185,5)의 "false"(이전 값: "true")
+       "DevEnvDir" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionName" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionFileName" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionPath" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionDir" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionExt" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(AutoUnifyAssemblyReferences)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(369,5)의 "false"(이전 값: "true")
+       속성 재할당: $(ProcessorArchitecture)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(507,5)의 "amd64"(이전 값: "x64")
+       속성 재할당: $(DelaySign)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(559,5)의 ""(이전 값: "false")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(628,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;"(이전 값: "{CandidateAssemblyFiles}")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(629,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem}"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(630,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem}")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(631,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(632,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(633,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(634,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(635,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}")
+       속성 재할당: $(AssemblySearchPaths)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(636,5)의 "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName};D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\"(이전 값: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}")
+       속성 재할당: $(_SGenGenerateSerializationAssembliesConfig)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3739,5)의 "Auto"(이전 값: "")
+       속성 재할당: $(_TargetsThatPrepareProjectReferences)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(4874,5)의 "
+             AssignProjectConfiguration;
+             _SplitProjectReferencesByFileExistence
+           "(이전 값: "_SplitProjectReferencesByFileExistence")
+       속성 재할당: $(_CodeAnalysisTreatWarningsAsErrors)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(125,5)의 "false"(이전 값: "")
+       속성 재할당: $(CAExcludePath)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(239,5)의 "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;"(이전 값: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;")
+       속성 재할당: $(CAExcludePath)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(240,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;"(이전 값: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;")
+       속성 재할당: $(CAExcludePath)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(241,5)의 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;"(이전 값: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;")
+       속성 재할당: $(PrepareForBuildDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(244,5)의 ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables"(이전 값: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata")
+       속성 재할당: $(PrepareResourcesDependsOn)=C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets(35,5)의 "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           "(이전 값: "
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ")
+       속성 재할당: $(ResolveReferencesDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\TeamTest\Microsoft.TeamTest.targets(4,5)의 "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           "(이전 값: "
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild을(를) 사용하여 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\*을(를) 가져옵니다.
+       속성 재할당: $(ProjectLockFile)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets(74,5)의 "obj\project.assets.json"(이전 값: "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\obj\project.assets.json")
+       속성 재할당: $(ResolveAssemblyReferencesDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets(185,5)의 "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets"(이전 값: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ")
+       속성 재할당: $(PrepareResourcesDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets(186,5)의 "ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           "(이전 값: "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       속성 재할당: $(DebugType)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets(39,5)의 ""(이전 값: "none")
+       속성 재할당: $(BuildDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets(121,5)의 "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           "(이전 값: "
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ")
+       속성 재할당: $(RebuildDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets(129,5)의 "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           "(이전 값: "
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ")
+       속성 재할당: $(CleanDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets(134,5)의 "
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           "(이전 값: "
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ")
+       속성 재할당: $(_TLogProjectName)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets(216,5)의 "A5-GMR-2.388e6a4f"(이전 값: "A5-GMR-2-Attack_WINDOWS")
+       속성 재할당: $(BeforeBuildGenerateSourcesTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(60,5)의 "
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           "(이전 값: "
+             ;
+             BeforeBuildGenerateSources;
+           ")
+       속성 재할당: $(AfterBuildGenerateSourcesTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(71,5)의 "
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           "(이전 값: "
+             ;
+             AfterBuildGenerateSources;
+           ")
+       속성 재할당: $(BuildGenerateSourcesAction)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(141,5)의 "_BuildGenerateSourcesAction"(이전 값: "Build")
+       속성 재할당: $(BuildCompileAction)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(142,5)의 "_BuildCompileAction"(이전 값: "Build")
+       속성 재할당: $(BuildLinkAction)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(143,5)의 "_BuildLinkAction"(이전 값: "Build")
+       속성 재할당: $(DetermineProjectTypeTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(250,5)의 "_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           "(이전 값: "
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ")
+       속성 재할당: $(ResolveReferencesDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(312,5)의 "_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           "(이전 값: "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ")
+       속성 재할당: $(ResolveAssemblyReferencesDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(313,5)의 "_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets"(이전 값: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets")
+       속성 재할당: $(ResolveSDKReferencesDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(314,5)의 "_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           "(이전 값: "
+             GetInstalledSDKLocations
+           ")
+       속성 재할당: $(ComputeCompileInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(639,5)의 "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           "(이전 값: "
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(952,5)의 "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           "(이전 값: "
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ")
+       속성 재할당: $(GetTargetPathDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5)의 "_PrepareForReferenceResolution;GetResolvedWinMD;"(이전 값: "")
+       속성 재할당: $(ComputeCompileInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1148,5)의 "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           "(이전 값: "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1200,5)의 "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           "(이전 값: "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1207,5)의 "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           "(이전 값: "
+             ;
+             ComputeRCGeneratedLibInputs;
+           ")
+       속성 재할당: $(ComputeImpLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1214,5)의 "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           "(이전 값: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1275,5)의 "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           "(이전 값: "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1290,5)의 "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           "(이전 값: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ")
+       속성 재할당: $(ComputeImpLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1305,5)의 "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           "(이전 값: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1336,5)의 "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           "(이전 값: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1354,5)의 "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           "(이전 값: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ")
+       속성 재할당: $(ComputeImpLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1372,5)의 "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+             ComputeImpLibInputsFromProject;
+           "(이전 값: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1516,5)의 "
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ;
+             ComputeReferenceLinkInputs;
+           "(이전 값: "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5)의 "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           "(이전 값: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1611,5)의 "
+             ComputeLibAdditionalOptions;
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           
+           "(이전 값: "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ")
+       속성 재할당: $(GetProjectInfoForReferenceDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1806,5)의 "
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           "(이전 값: "
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ")
+       속성 재할당: $(DocumentationProjectOutputGroupDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(2193,5)의 "ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles"(이전 값: "")
+       속성 재할당: $(ContentFilesProjectOutputGroupDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(2259,5)의 "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc"(이전 값: "PrepareForBuild;AssignTargetPaths")
+       속성 재할당: $(ComputeCompileInputsTargets)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(308,5)의 "
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             FixupCLCompileOptions;
+           "(이전 값: "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ")
+       속성 재할당: $(BuildingProject)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(2005,5)의 "true"(이전 값: "false")
+       속성 재할당: $(ContentFilesProjectOutputGroupDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(2558,5)의 "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;"(이전 값: "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc")
+       속성 재할당: $(PrepareForBuildDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets(16,5)의 "_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables"(이전 값: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables")
+       속성 재할당: $(CleanDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(22,5)의 "
+             
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ;
+             CppClean
+           "(이전 값: "
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ")
+       속성 재할당: $(CppCleanDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(92,5)의 "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean"(이전 값: "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ")
+       속성 재할당: $(BuildDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets(539,5)의 "SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           "(이전 값: "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ")
+       속성 재할당: $(RebuildDependsOn)=C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets(540,5)의 "SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           "(이전 값: "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ")
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GenerateTargetFrameworkMonikerAttribute" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 프로젝트의 "GenerateTargetFrameworkMonikerAttribute" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "Build" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 프로젝트의 "Build" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "Rebuild" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 프로젝트의 "Rebuild" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "AfterBuild" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 프로젝트의 "AfterBuild" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "PrepareForBuild" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "PrepareForBuild" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GetTargetPath" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "GetTargetPath" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "ComputeIntermediateSatelliteAssemblies" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ComputeIntermediateSatelliteAssemblies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ClCompile" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ClCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ResourceCompile" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ResourceCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Lib" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Lib" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Link" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Link" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "AllProjectOutputGroups" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "AllProjectOutputGroups" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "BuiltProjectOutputGroup" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "BuiltProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DebugSymbolsProjectOutputGroup" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "DebugSymbolsProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DocumentationProjectOutputGroup" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "DocumentationProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "SourceFilesProjectOutputGroup" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "SourceFilesProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "ContentFilesProjectOutputGroup" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ContentFilesProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "AllProjectOutputGroupsDependencies" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "AllProjectOutputGroupsDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "BuiltProjectOutputGroupDependencies" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "BuiltProjectOutputGroupDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DebugSymbolsProjectOutputGroupDependencies" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "DebugSymbolsProjectOutputGroupDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DocumentationProjectOutputGroupDependencies" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "DocumentationProjectOutputGroupDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "PreBuildEvent" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "PreBuildEvent" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "PostBuildEvent" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "PostBuildEvent" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ClCompile" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "ClCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Link" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "Link" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Lib" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "Lib" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ImpLib" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "ImpLib" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Midl" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "Midl" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "ResourceCompile" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "ResourceCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "BeforeResGen" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "BeforeResGen" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "ResGen" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "ResGen" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GenerateSatelliteAssemblies" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "GenerateSatelliteAssemblies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "Manifest" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "Manifest" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "XdcMake" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "XdcMake" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 프로젝트의 "BscMake" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "BscMake" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets" 프로젝트의 "ComputeMetaGenInputs" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "ComputeMetaGenInputs" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GetNativeManifest" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 프로젝트의 "GetNativeManifest" 대상으로 재정의하고 있습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GetTargetPathWithTargetPlatformMoniker" 대상을 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets" 프로젝트의 "GetTargetPathWithTargetPlatformMoniker" 대상으로 재정의하고 있습니다.
+빌드 시작: 2025-08-27 오전 12:42:00
+로깅의 세부 정보 표시가 Detailed(으)로 설정되었습니다.     1>2 노드의 "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>조건이 잘못되어 "EnableIntermediateOutputPathMismatchWarning" 대상을 건너뜁니다. ('$(RestoreProjectStyle)' == 'PackageReference')이(가) ('' == 'PackageReference')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_CheckForInvalidConfigurationAndPlatform" 대상("SetTelemetryEnvironmentVariables" 대상이 종속됨):
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ( '$(_InvalidConfigurationError)' == 'true' )이(가) ( '' == 'true' )(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ( '$(_InvalidConfigurationWarning)' == 'true' )이(가) ( '' == 'true' )(으)로 확인되었습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "Message" 작업을 사용합니다.
+       "Message" 작업
+         Configuration=Release
+       "Message" 작업을 실행했습니다.
+       "Message" 작업
+         Platform=x64
+       "Message" 작업을 실행했습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)'))이(가) ('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\' != '' and !HasTrailingSlash('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\'))(으)로 확인되었습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)'))이(가) ('x64\Release\' != '' and !HasTrailingSlash('x64\Release\'))(으)로 확인되었습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)'))이(가) ('obj\' != '' and !HasTrailingSlash('obj\'))(으)로 확인되었습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' )이(가) ( 'D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\obj\' != '' And 'D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\obj\' != 'D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\obj\' )(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' )이(가) ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\obj\' )(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_CheckForInvalidConfigurationAndPlatform" 대상을 빌드했습니다.
+       "_CheckForInvalidConfigurationAndPlatform" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets" 파일에 있는 "SetTelemetryEnvironmentVariables" 대상("Rebuild" 대상이 종속됨):
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "SetEnv" 작업을 사용합니다.
+       "SetEnv" 작업
+         VSTEL_SolutionSessionID={9802D807-864C-4700-B768-2E22DA6B2344}
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         VSTEL_CurrentSolutionBuildID=2776631816
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         VSTEL_ProjectID={388e6a4f-22f4-44fc-befe-0ef739f90853}
+       "SetEnv" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "SetTelemetryEnvironmentVariables" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "_PrepareForRebuild" 대상("Rebuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_PrepareForRebuild" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BeforeRebuild" 대상("Rebuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeRebuild" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "_PrepareForClean" 대상("Clean" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "Delete" 작업을 사용합니다.
+       "Delete" 작업
+         "x64\Release\A5-GMR-2.388e6a4f.tlog\A5-GMR-2-Attack_WINDOWS.lastbuildstate" 파일을 삭제하고 있습니다.
+       "Delete" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_PrepareForClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BeforeClean" 대상("Clean" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeClean" 대상을 빌드했습니다.
+       조건이 잘못되어 "UnmanagedUnregistration" 대상을 건너뜁니다. ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                           ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                          Exists('@(_UnmanagedRegistrationCache)'))이(가) ((('' != '' or '' != 'true' or 'exe' != 'library') or
+                           ('' == '')) and
+                          Exists('obj\A5-GMR-2-Attack.vcxproj.UnmanagedRegistration.cache'))(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "CoreClean" 대상("Clean" 대상이 종속됨):
+       "Delete" 작업
+         "x64\Release\\TempCA\A5-GMR-2-Attack_WINDOWS.pdb" 파일이 없습니다. 건너뜁니다.
+         "x64\Release\\TempCA\A5-GMR-2-Attack_WINDOWS.exe" 파일이 없습니다. 건너뜁니다.
+       "Delete" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "ReadLinesFromFile" 작업을 사용합니다.
+       "ReadLinesFromFile" 작업
+       "ReadLinesFromFile" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "FindUnderPath" 작업을 사용합니다.
+       "FindUnderPath" 작업
+         비교 경로는 "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\"입니다.
+       "FindUnderPath" 작업을 실행했습니다.
+       "FindUnderPath" 작업
+         비교 경로는 "x64\Release\"입니다.
+       "FindUnderPath" 작업을 실행했습니다.
+       "Delete" 작업
+       "Delete" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "RemoveDuplicates" 작업을 사용합니다.
+       "RemoveDuplicates" 작업
+       "RemoveDuplicates" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "MakeDir" 작업을 사용합니다.
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "WriteLinesToFile" 작업을 사용합니다.
+       "WriteLinesToFile" 작업
+       "WriteLinesToFile" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CoreClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AssignProjectConfiguration" 대상("PrepareProjectReferences" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "AssignProjectConfiguration" 작업을 사용합니다.
+       "AssignProjectConfiguration" 작업
+       "AssignProjectConfiguration" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AssignProjectConfiguration" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_SplitProjectReferencesByFileExistence" 대상("PrepareProjectReferences" 대상이 종속됨):
+       조건이 잘못되어 "ResolveNonMSBuildProjectOutput" 작업을 건너뜁니다. ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='')이(가) ('true'=='true' and ''!='')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_SplitProjectReferencesByFileExistence" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_AddOutputPathToGlobalPropertiesToRemove" 대상("_GetProjectReferenceTargetFrameworkProperties" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_AddOutputPathToGlobalPropertiesToRemove" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_GetProjectReferenceTargetFrameworkProperties" 대상("PrepareProjectReferences" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "MSBuild" 작업을 사용합니다.
+       "MSBuild" 작업
+       "MSBuild" 작업을 실행했습니다.
+       조건이 잘못되어 "GetReferenceNearestTargetFrameworkTask" 작업을 건너뜁니다. ('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true')이(가) ('' != '' and '' != ''
+                                                               And 'true' == 'true' and '' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "GetReferenceNearestTargetFrameworkTask" 작업을 건너뜁니다. ('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true')이(가) ('' != '' and '' != ''
+                                                               And 'true' != 'true' and '' != 'true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_GetProjectReferenceTargetFrameworkProperties" 대상을 빌드했습니다.
+       조건이 잘못되어 "_GetProjectReferencePlatformProperties" 대상을 건너뜁니다. ('$(EnableDynamicPlatformResolution)' == 'true'
+                            and '$(BuildingInsideVisualStudio)' != 'true'
+                            and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == 'true'
+                            and 'true' != 'true'
+                            and '' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "PrepareProjectReferences" 대상("CleanReferencedProjects" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PrepareProjectReferences" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "CleanReferencedProjects" 대상("Clean" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('true' != 'true' and 'true' == 'true' and '' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CleanReferencedProjects" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "CleanPublishFolder" 대상("Clean" 대상이 종속됨):
+       조건이 잘못되어 "RemoveDir" 작업을 건너뜁니다. ('$(PublishDir)'=='$(OutputPath)app.publish\' and Exists('$(PublishDir)'))이(가) ('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\app.publish\'=='D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\app.publish\' and Exists('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\app.publish\'))(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CleanPublishFolder" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AfterClean" 대상("Clean" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" 파일에 있는 "BeforeCppClean" 대상("CppClean" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeCppClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" 파일에 있는 "CoreCppClean" 대상("CppClean" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "CppClean" 작업을 사용합니다.
+       "CppClean" 작업
+       "CppClean" 작업을 실행했습니다.
+       "WriteLinesToFile" 작업
+       "WriteLinesToFile" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CoreCppClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" 파일에 있는 "AfterCppClean" 대상("CppClean" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterCppClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" 파일에 있는 "PGInstrumentedClean" 대상("CppClean" 대상이 종속됨):
+       "Delete" 작업
+       "Delete" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PGInstrumentedClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" 파일에 있는 "CppClean" 대상("Clean" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CppClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "Clean" 대상("Rebuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "Clean" 대상을 빌드했습니다.
+       "SetTelemetryEnvironmentVariables" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "_PrepareForBuild" 대상("Build" 대상이 종속됨):
+       조건이 잘못되어 "CreateItem" 작업을 건너뜁니다. ('%(CustomBuild.IncludeFileToTool)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_PrepareForBuild" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_PrepareForReferenceResolution" 대상("ResolveReferences" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(WarnAboutIndividualManagedFiles)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('$(_REFERENCE_DEBUG)'=='true')이(가) (''=='true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_PrepareForReferenceResolution" 대상을 빌드했습니다.
+       조건이 잘못되어 "ComputeCrtSDKReference" 대상을 건너뜁니다. ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')이(가) ('main.cpp'!='' and 'false'=='true' and '' != 'false')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BeforeResolveReferences" 대상("ResolveReferences" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeResolveReferences" 대상을 빌드했습니다.
+       "AssignProjectConfiguration" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "PrepareProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "_RemoveNameMetadataFromProjectReferenceItems" 대상을 건너뜁니다. ('@(ProjectReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveProjectReferences" 대상("ResolveReferences" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '17.0' != '10.0' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == 'true' and '' != '' and 'true' == 'true' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ResolveProjectReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "FindInvalidProjectReferences" 대상을 건너뜁니다. ('$(FindInvalidProjectReferences)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "ResolveNativeReferences" 대상을 건너뜁니다. ('@(NativeReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "FindInvalidProjectReferences" 대상을 건너뜁니다. ('$(FindInvalidProjectReferences)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "GetFrameworkPaths" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "GetFrameworkPaths" 대상을 빌드했습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "GetFrameworkPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "GetReferenceAssemblyPaths" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "GetReferenceAssemblyPaths" 작업을 건너뜁니다. ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == ''))이(가) ('' != '' and ('' == '' or '' == ''))(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "GetReferenceAssemblyPaths" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets" 파일에 있는 "AddExternalIncludDirectoriesToPaths" 대상("SetBuildDefaultEnvironmentVariables" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AddExternalIncludDirectoriesToPaths" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets" 파일에 있는 "SetBuildDefaultEnvironmentVariables" 대상("PrepareForBuild" 대상이 종속됨):
+       "SetEnv" 작업
+         PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Bandizip\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Utimaco\SecurityServer\Administration\;C:\Program Files (x86)\NetSarang\Xftp 8\;C:\Program Files\Git\cmd;C:\Users\insung\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\insung\AppData\Local\Programs\Python\Python310\;C:\Users\insung\AppData\Local\Microsoft\WindowsApps;C:\Users\insung\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Everything-1.4.1.1017.x64;C:\Users\insung\.dotnet\tools;C:\Users\insung\Desktop\CryptoTools\CryptoTools;C:\texlive\2022\bin\win32;C:\Program Files\Utimaco\SecurityServer\SDK\cygwin\bin\;C:\Program Files\Utimaco\SecurityServer\SDK\bin;C:\Program Files\Utimaco\SecurityServer\SDK\lib\Windows-x86-64\;D:\CryptoTools\CryptoTools;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\Hostx64\x64;C:\Users\insung\anaconda3;C:\Users\insung\anaconda3\Scripts;C:\Users\insung\anaconda3\Library\bin;C:\Program Files\sqlite-dll-win-x64-3500400;;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         LIB=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         LIBPATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         EXTERNAL_INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       "SetEnv" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "SetBuildDefaultEnvironmentVariables" 대상을 빌드했습니다.
+       조건이 잘못되어 "SetUserMacroEnvironmentVariables" 대상을 건너뜁니다. ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')이(가) ('' != '' and '' != 'true')(으)로 확인되었습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "GetResolvedWinMD" 대상("PrepareForBuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "GetResolvedWinMD" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets" 파일에 있는 "_CheckWindowsSDKInstalled" 대상("PrepareForBuild" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(WindowsSDKInstalled)' != 'true')이(가) ('true' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true)이(가) ('false' != 'true' and 'true' != true)(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_CheckWindowsSDKInstalled" 대상을 빌드했습니다.
+       "GetFrameworkPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "GetReferenceAssemblyPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "AssignLinkMetadata" 대상을 건너뜁니다. ( '$(SynthesizeLinkMetadata)' == 'true' )이(가) ( '' == 'true' )(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" 파일에 있는 "SetCABuildNativeEnvironmentVariables" 대상("PrepareForBuild" 대상이 종속됨):
+       "SetEnv" 작업
+         CAExcludePath=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       "SetEnv" 작업을 실행했습니다.
+       조건이 잘못되어 "SetEnv" 작업을 건너뜁니다. ('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true')이(가) ('false'=='true' and 'true'=='true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "SetCABuildNativeEnvironmentVariables" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "PrepareForBuild" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true')이(가) ('' != 'true' and 'true' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true')이(가) ('' != 'true' and 'true' != 'true')(으)로 확인되었습니다.
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary')이(가) (''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' ))이(가) (''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\'=='' and '' != 'true' and (''=='v3.5' or ''=='v3.0' or ''=='v2.0' ))(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90')이(가) (''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\'=='' and '' != 'true' and 'v143'=='v90')(으)로 확인되었습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "CheckVCToolsetVersion" 작업을 사용합니다.
+       "CheckVCToolsetVersion" 작업
+       "CheckVCToolsetVersion" 작업을 실행했습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '')이(가) ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64\mfcs140.lib) and '' == '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '')이(가) ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64\mfcs140.lib) and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '')이(가) ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64\atls.lib) and '' == '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '')이(가) ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\atlmfc\lib\x64\atls.lib) and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_OneCore_CurrentPlatform_spectre)')) or
+                                                                ('$(VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_Desktop_CurrentPlatform_spectre)'))))이(가) ('' != 'true' and
+                                                               'true'=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\spectre\onecore\x64')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\spectre\x64'))))(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true'  and '$(CheckMSVCComponents)'=='true')이(가) (''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\'=='' and '' != 'true'  and 'true'=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true')이(가) (''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true')이(가) (''!='true' and ''=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true')이(가) (''!='true' and ''=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true')이(가) ('' != '' and ''!='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true')이(가) ('' != 'true' and '' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(_Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Temp), true, null))' == 'true'))이(가) (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true'))(으)로 확인되었습니다.
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PrepareForBuild" 대상을 빌드했습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "ComputeCrtSDKReference" 대상을 건너뜁니다. ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')이(가) ('main.cpp'!='' and 'false'=='true' and '' != 'false')(으)로 확인되었습니다.
+       조건이 잘못되어 "GetInstalledSDKLocations" 대상을 건너뜁니다. ('@(SDKReference)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveSDKReferences" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "ResolveSDKReference" 작업을 건너뜁니다. ('@(SDKReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ResolveSDKReferences" 대상을 빌드했습니다.
+       "ResolveSDKReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ExpandSDKReferences" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "GetSDKReferenceFiles" 작업을 건너뜁니다. ('@(ResolvedSDKReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ExpandSDKReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "ResolveNuGetPackageAssets" 대상을 건너뜁니다. ('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)'))이(가) ('true' == 'true' and exists('obj\project.assets.json'))(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveAssemblyReferences" 대상("ResolveReferences" 대상이 종속됨):
+       조건이 잘못되어 "ResolveAssemblyReference" 작업을 건너뜁니다. ('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '')이(가) (''!='' or ''!='' or '' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ResolveAssemblyReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "GenerateBindingRedirects" 대상을 건너뜁니다. ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true')이(가) ('' == 'true' and 'true' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "GenerateBindingRedirectsUpdateAppConfig" 대상을 건너뜁니다. ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)'))이(가) ('' == 'true' and 'true' == 'true' and Exists('x64\Release\A5-GMR-2-Attack_WINDOWS.exe.config'))(으)로 확인되었습니다.
+       조건이 잘못되어 "ResolveComReferences" 대상을 건너뜁니다. ('@(COMReference)'!='' or '@(COMFileReference)'!='')이(가) (''!='' or ''!='')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AfterResolveReferences" 대상("ResolveReferences" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterResolveReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "ResolveTestReferences" 대상을 건너뜁니다. ('@(Shadow)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveReferences" 대상("Build" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ResolveReferences" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "InitializeBuildStatus" 대상("Build" 대상이 종속됨):
+       "ReadLinesFromFile" 작업
+       "ReadLinesFromFile" 작업을 실행했습니다.
+       "WriteLinesToFile" 작업
+       "WriteLinesToFile" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "Touch" 작업을 사용합니다.
+       "Touch" 작업
+         "x64\Release\A5-GMR-2.388e6a4f.tlog\unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       "Touch" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "InitializeBuildStatus" 대상을 빌드했습니다.
+       "PrepareProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildGenerateSourcesTraverse" 대상("BuildGenerateSources" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')이(가) ('' == 'true' and '' != '' and '' != '' and '' == 'true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BuildGenerateSourcesTraverse" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "BeforeBuildGenerateSources" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeBuildGenerateSources" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "PreBuildEvent" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('%(PreBuildEvent.Command)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PreBuildEvent" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "InitializeBuildStatus" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "SetBuildDefaultEnvironmentVariables" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "SetUserMacroEnvironmentVariables" 대상을 건너뜁니다. ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')이(가) ('' != '' and '' != 'true')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_SelectedFiles" 대상("SelectCustomBuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_SelectedFiles" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "SelectCustomBuild" 대상("CustomBuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "SelectCustomBuild" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCustomBuildOutput" 대상("CustomBuild" 대상이 종속됨):
+       조건이 잘못되어 "CreateItem" 작업을 건너뜁니다. ('%(CustomBuildOutputs.OutputItemType)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeCustomBuildOutput" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "CustomBuild" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "GetOutOfDateItems" 작업을 사용합니다.
+       "GetOutOfDateItems" 작업
+       "GetOutOfDateItems" 작업을 실행했습니다.
+       "GetOutOfDateItems" 작업
+       "GetOutOfDateItems" 작업을 실행했습니다.
+       조건이 잘못되어 "ParallelCustomBuild" 작업을 건너뜁니다. ('@(_ParallelCustomBuild)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "CustomBuild" 작업을 건너뜁니다. ('@(_CustomBuild)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CustomBuild" 대상을 빌드했습니다.
+       조건이 잘못되어 "FxExport" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "FxCompile" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "_CreateCopyFileItems" 대상을 건너뜁니다. ('@(CopyFileToFolders)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       "_SelectedFiles" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "CopyFileToFolders" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+       "GetOutOfDateItems" 작업
+       "GetOutOfDateItems" 작업을 실행했습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('@(_OutOfDateCopyFile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CopyFileToFolders" 대상을 빌드했습니다.
+       조건이 잘못되어 "Xsd" 대상을 건너뜁니다. ('@(Xsd)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_Xsd" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_Xsd" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForMidl" 대상("_Midl" 대상이 종속됨):
+       "Makedir" 작업
+       "Makedir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "MakeDirsForMidl" 대상을 빌드했습니다.
+       조건이 잘못되어 "Midl" 대상을 건너뜁니다. ('@(Midl)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "FxExport" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "FxCompile" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeMIDLGeneratedCompileInputs" 대상("_Midl" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeMIDLGeneratedCompileInputs" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "AfterMidl" 대상("_Midl" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterMidl" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_Midl" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_Midl" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "AfterBuildGenerateSources" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterBuildGenerateSources" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "AfterBuildGenerateSourcesEvent" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterBuildGenerateSourcesEvent" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_BuildGenerateSourcesAction" 대상("BuildGenerateSources" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_BuildGenerateSourcesAction" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildGenerateSources" 대상("Build" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BuildGenerateSources" 대상을 빌드했습니다.
+       "PrepareProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildCompileTraverse" 대상("BuildCompile" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')이(가) ('' == 'true' and '' != '' and '' != ''  and '' == 'true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BuildCompileTraverse" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "BeforeClCompile" 대상("_ClCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "GenerateTargetFrameworkMonikerAttribute" 대상을 건너뜁니다. ('$(GenerateTargetFrameworkAttribute)' == 'true')이(가) ('false' == 'true')(으)로 확인되었습니다.
+       "ComputeMIDLGeneratedCompileInputs" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLInputPDBName" 대상("_ClCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeCLInputPDBName" 대상을 빌드했습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "FindReferenceAssembliesForReferences" 대상("ComputeReferenceCLInput" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "FindReferenceAssembliesForReferences" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "GetReferencedVCProjectsInfo" 대상("ComputeReferenceCLInput" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == '.vcxproj' and '' != '' and '' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "GetReferencedVCProjectsInfo" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeReferenceCLInput" 대상("_ClCompile" 대상이 종속됨):
+       조건이 잘못되어 "WriteLinesToFile" 작업을 건너뜁니다. ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true')이(가) (''!='' and '' != 'true' and 'true' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "WriteLinesToFile" 작업을 건너뜁니다. ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true')이(가) (''!='' and '' != 'true' and 'true' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('$(_REFERENCE_DEBUG)'=='true')이(가) (''=='true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeReferenceCLInput" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "WarnCompileDuplicatedFilename" 대상("_ClCompile" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())')이(가) ('' != 'true' and 'main.cpp' != 'main.cpp' and 'x64\Release\' == 'x64\Release\')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "WarnCompileDuplicatedFilename" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "FixupCLCompileOptions" 대상("_ClCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "FixupCLCompileOptions" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForCl" 대상("_ClCompile" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "MakeDirsForCl" 대상을 빌드했습니다.
+       "_SelectedFiles" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "GenerateTargetFrameworkMonikerAttribute" 대상을 건너뜁니다. ('$(GenerateTargetFrameworkAttribute)' == 'true')이(가) ('false' == 'true')(으)로 확인되었습니다.
+       "ComputeMIDLGeneratedCompileInputs" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeCLInputPDBName" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeReferenceCLInput" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "WarnCompileDuplicatedFilename" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "FixupCLCompileOptions" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "SelectCustomBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "SetModuleDependencies" 대상을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true')이(가) ('' != 'true' and '' == 'true')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "SelectClCompile" 대상("ClCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "SelectClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "SelectAnalysisManifest" 대상을 건너뜁니다. ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='')이(가) ('false'=='true' and ''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "ManagedIncrementalBuildPreProcessDependencyGraph" 대상을 건너뜁니다. ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True')이(가) ('main.cpp' != '' and 'false' == 'True')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "ClCompile" 대상("_ClCompile" 대상이 종속됨):
+       "Delete" 작업
+       "Delete" 작업을 실행했습니다.
+       조건이 잘못되어 "MultiToolTask" 작업을 건너뜁니다. ('%(ClCompile.CompilerIteration)' == 'Modules')이(가) ('' == 'Modules')(으)로 확인되었습니다.
+       조건이 잘못되어 "MultiToolTask" 작업을 건너뜁니다. ('%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true')이(가) ('' == '' and 'false' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "CL" 작업을 건너뜁니다. ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true')이(가) ('NotUsing' == 'Create' and '' == '' and 'false' != 'true')(으)로 확인되었습니다.
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "CL" 작업을 사용합니다.
+       "CL" 작업
+         PDB "x64\Release\vc143.pdb" 누락으로 인해 모든 소스 파일을 강제로 다시 컴파일합니다.
+         도구로 전달된 환경 변수:
+           VS_UNICODE_OUTPUT=1584
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Release\\" /Fd"x64\Release\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt main.cpp
+         추적 명령:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2.388e6a4f.tlog /r D:\INSUNGKIM\ONGOING_PAPER\ACM_SAC2026\WORK\BREAKING_A5-GMR-2\_EXPERIMENT\WINDOWS\A5-GMR-2-ATTACK\MAIN.CPP /b MSBuildConsole_CancelEvent13a5006fce344b74a3da269c23fe85b9  /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe"  /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Release\\" /Fd"x64\Release\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\main.cpp(91,20): warning C4101: 'end' :참조되지 않은 지역 변수입니다.
+     1>D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\main.cpp(91,13): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+       "CL" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "RunSelectedFileNativeCodeAnalysis" 대상을 건너뜁니다. ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='')이(가) ('false'=='true' and ''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "ManagedIncrementalBuildPostProcessDependencyGraph" 대상을 건너뜁니다. ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True')이(가) ('main.cpp' != '' and 'false' == 'True')(으)로 확인되었습니다.
+       조건이 잘못되어 "NoAnalysisToolEnabledWarning" 대상을 건너뜁니다. ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='false' AND '$(EnableClangTidyCodeAnalysis)'=='false')이(가) ('false'=='true' AND 'true'=='false' AND 'false'=='false')(으)로 확인되었습니다.
+       조건이 잘못되어 "RunSelectedFileClangTidy" 대상을 건너뜁니다. ('$(RunClangCppAnalysis)'=='true' AND '$(SelectedFiles)'!='')이(가) ('false'=='true' AND ''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "MicrosoftAnalysisIncompatiableWithClangCl" 대상을 건너뜁니다. ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='true' AND '$(UseClangCl)'=='true')이(가) ('false'=='true' AND 'true'=='true' AND ''=='true')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "AfterClCompile" 대상("_ClCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterClCompile" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_ClCompile" 대상("_BuildCompileAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_ClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "_ResGen" 대상을 건너뜁니다. ('@(EmbeddedResource)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "BeforeResourceCompile" 대상("_ResourceCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeResourceCompile" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForResourceCompile" 대상("_ResourceCompile" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "MakeDirsForResourceCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "ResourceCompile" 대상을 건너뜁니다. ('@(ResourceCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "AfterResourceCompile" 대상("_ResourceCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterResourceCompile" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_ResourceCompile" 대상("_BuildCompileAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_ResourceCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "_ImpLib" 대상을 건너뜁니다. ('$(ImpLibCompiled)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "_Lib" 대상을 건너뜁니다. ('$(LibCompiled)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "AfterBuildCompileEvent" 대상("_BuildCompileAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterBuildCompileEvent" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_BuildCompileAction" 대상("BuildCompile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_BuildCompileAction" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildCompile" 대상("Build" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BuildCompile" 대상을 빌드했습니다.
+       "PrepareProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildLinkTraverse" 대상("BuildLink" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')이(가) ('' == 'true' and '' != '' and '' != ''  and '' == 'true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BuildLinkTraverse" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeLegacyManifestEmbedding" 대상("_BuildLinkAction" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(RevertManifestEmbedding)' == 'true' and '$(_LegacyManifestEmbeddingDebug)' == 'true')이(가) ('' == 'true' and '' == 'true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeLegacyManifestEmbedding" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "BeforeLink" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BeforeLink" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeRCOutputs" 대상("ComputeRCGeneratedLinkInputs" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeRCOutputs" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeRCGeneratedLinkInputs" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeRCGeneratedLinkInputs" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeManifestGeneratedLinkerInputs" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeManifestGeneratedLinkerInputs" 대상을 빌드했습니다.
+       "ComputeCustomBuildOutput" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "GenerateTargetFrameworkMonikerAttribute" 대상을 건너뜁니다. ('$(GenerateTargetFrameworkAttribute)' == 'true')이(가) ('false' == 'true')(으)로 확인되었습니다.
+       "ComputeMIDLGeneratedCompileInputs" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeCLInputPDBName" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeReferenceCLInput" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "WarnCompileDuplicatedFilename" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "FixupCLCompileOptions" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLOutputs" 대상("ComputeCLGeneratedLinkInputs" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeCLOutputs" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLGeneratedLinkInputs" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeCLGeneratedLinkInputs" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeLinkInputsFromProject" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeLinkInputsFromProject" 대상을 빌드했습니다.
+       조건이 잘못되어 "ComputeReferenceLinkInputs" 대상을 건너뜁니다. (@(ProjectReference) != '')이(가) ( != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeManifestInputsTargets" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeManifestInputsTargets" 대상을 빌드했습니다.
+       조건이 잘못되어 "ManifestResourceCompile" 대상을 건너뜁니다. ('$(EmbedManifestBy)' == 'LINK' and '@(Manifest)' != '')이(가) ('MT' == 'LINK' and '' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AssignTargetPaths" 대상("PrepareResourceNames" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "AssignTargetPath" 작업을 사용합니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       조건이 잘못되어 "AssignTargetPath" 작업을 건너뜁니다. ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest')이(가) (''=='' and ''=='.manifest')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AssignTargetPaths" 대상을 빌드했습니다.
+       "AssignTargetPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "SplitResourcesByCulture" 대상("PrepareResourceNames" 대상이 종속됨):
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ResxWithNoCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ResxWithCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(NonResxWithCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(NonResxWithNoCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "AssignCulture" 작업을 사용합니다.
+       "AssignCulture" 작업
+       "AssignCulture" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "SplitResourcesByCulture" 대상을 빌드했습니다.
+       조건이 잘못되어 "CreateManifestResourceNames" 대상을 건너뜁니다. ('@(EmbeddedResource)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "CreateCustomManifestResourceNames" 대상("PrepareResourceNames" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CreateCustomManifestResourceNames" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "PrepareResourceNames" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PrepareResourceNames" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForLink" 대상("_Link" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "MakeDirsForLink" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "DoLinkOutputFilesMatch" 대상("_Link" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' == '')이(가) ('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe' == '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.FullPath)' != '$([System.IO.Path]::GetFullPath($(TargetPath)))')이(가) ('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe' != '' and 'D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe' != 'D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Extension)' != '' and '%(_OutputFileFromLink.Extension)' != '$(TargetExt)')이(가) ('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe' != '' and '.exe' != '' and '.exe' != '.exe')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Filename)' != '' and '%(_OutputFileFromLink.Filename)' != '$(TargetName)')이(가) ('D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe' != '' and 'A5-GMR-2-Attack_WINDOWS' != '' and 'A5-GMR-2-Attack_WINDOWS' != 'A5-GMR-2-Attack_WINDOWS')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('%(Link.MinimumRequiredVersion)' != '' and ('%(Link.Subsystem)' == '' or '%(Link.Subsystem)' == 'NotSet'))이(가) ('' != '' and ('Console' == '' or 'Console' == 'NotSet'))(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "DoLinkOutputFilesMatch" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "PreLinkEvent" 대상("_Link" 대상이 종속됨):
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('%(PreLinkEvent.Command)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PreLinkEvent" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "ComputeLinkSwitches" 대상("Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeLinkSwitches" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "Link" 대상("_Link" 대상이 종속됨):
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "Link" 작업을 사용합니다.
+       "Link" 작업
+         도구로 전달된 환경 변수:
+           VS_UNICODE_OUTPUT=1832
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"x64\Release\A5-GMR-2-Attack_WINDOWS.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.lib" /MACHINE:X64 x64\Release\main.obj
+         추적 명령:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Tracker.exe /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2.388e6a4f.tlog /r D:\INSUNGKIM\ONGOING_PAPER\ACM_SAC2026\WORK\BREAKING_A5-GMR-2\_EXPERIMENT\WINDOWS\A5-GMR-2-ATTACK\X64\RELEASE\MAIN.OBJ /b MSBuildConsole_CancelEventc6366606e1c84d57bc437e15f5327af4  /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe"  /ERRORREPORT:PROMPT /OUT:"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"x64\Release\A5-GMR-2-Attack_WINDOWS.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.lib" /MACHINE:X64 x64\Release\main.obj
+         코드를 생성하고 있습니다.
+         Previous IPDB not found, fall back to full compilation.
+         All 558 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         코드를 생성했습니다.
+       "Link" 작업을 실행했습니다.
+       "Message" 작업
+         A5-GMR-2-Attack.vcxproj -> D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\A5-GMR-2-Attack_WINDOWS.exe
+       "Message" 작업을 실행했습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. (('$(EmbedManifestBy)' != 'LINK' or '$(LegacyManifestEmbedding)' != 'true' or '$(LinkSkippedExecution)' == 'true') and
+                    %(Link.GenerateDebugInformation) == 'DebugFastLink' and %(Link.ProgramDataBaseFileName) != '')이(가) (('MT' != 'LINK' or '' != 'true' or 'False' == 'true') and
+                    true == 'DebugFastLink' and  != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. (('$(EmbedManifestBy)' != 'LINK' or '$(LegacyManifestEmbedding)' != 'true' or '$(LinkSkippedExecution)' == 'true') and
+                    %(Link.GenerateDebugInformation) == 'true' and %(Link.ProgramDataBaseFileName) != '')이(가) (('MT' != 'LINK' or '' != 'true' or 'False' == 'true') and
+                    true == 'true' and  != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "Link" 대상을 빌드했습니다.
+       조건이 잘못되어 "MetaGenInputsOutputs" 대상을 건너뜁니다. ('$(EnableManagedIncrementalBuild)' == 'True')이(가) ('false' == 'True')(으)로 확인되었습니다.
+       조건이 잘못되어 "ComputeMetaGenInputs" 대상을 건너뜁니다. ('$(CLRSupport)'!='' and '$(CLRSupport)'!='false' and '$(CLRSupport)'!='NetCore')이(가) ('false'!='' and 'false'!='false' and 'false'!='NetCore')(으)로 확인되었습니다.
+       조건이 잘못되어 "MetaGen" 대상을 건너뜁니다. ('@(MetaGen)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeLinkImportLibraryOutputsForClean" 대상("_Link" 대상이 종속됨):
+       "WriteLinesToFile" 작업
+       "WriteLinesToFile" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeLinkImportLibraryOutputsForClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "AfterLink" 대상("_Link" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterLink" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_Link" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_Link" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_ALink" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_ALink" 대상을 빌드했습니다.
+       "ComputeLegacyManifestEmbedding" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_Manifest" 대상("_BuildLinkAction" 대상이 종속됨):
+       조건이 잘못되어 "CallTarget" 작업을 건너뜁니다. ('$(LegacyManifestEmbedding)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_Manifest" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "RegisterOutput" 대상("_BuildLinkAction" 대상이 종속됨):
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true')이(가) ('Application'=='DynamicLibrary' and 'false'=='true' and 'false'!='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true')이(가) ('Application'=='DynamicLibrary' and 'false'=='true' and 'false'=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true')이(가) ('Application'=='Application' and 'false'=='true' and 'false'!='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true')이(가) ('Application'=='Application' and 'false'=='true' and 'false'=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(_RegisterOutputExitCode)' != '' and '$(_RegisterOutputExitCode)' != '0')이(가) ('' != '' and '' != '0')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "RegisterOutput" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ResolvedXDCMake" 대상("_XdcMake" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '$(_ClCompileGenerateXMLDocumentationFiles)' == 'true')이(가) ('' == '.vcxproj' and '' != '' and '' != '' and '' == 'true')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ResolvedXDCMake" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLCompileGeneratedXDCFiles" 대상("_XdcMake" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeCLCompileGeneratedXDCFiles" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForXdcMake" 대상("_XdcMake" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "MakeDirsForXdcMake" 대상을 빌드했습니다.
+       조건이 잘못되어 "XdcMake" 대상을 건너뜁니다. ('@(XdcMake)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_XdcMake" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_XdcMake" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLCompileGeneratedSbrFiles" 대상("_BscMake" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ComputeCLCompileGeneratedSbrFiles" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForBscMake" 대상("_BscMake" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "MakeDirsForBscMake" 대상을 빌드했습니다.
+       조건이 잘못되어 "BscMake" 대상을 건너뜁니다. ('@(BscMake)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "CustomBuildStep" 대상을 건너뜁니다. ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='')이(가) ('' != '' and ''=='')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_BscMake" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_BscMake" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "BuiltProjectOutputGroup" 대상("CreateRecipeFile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BuiltProjectOutputGroup" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "PrepareResourceNames" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "SatelliteDllsProjectOutputGroup" 대상("CreateRecipeFile" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "SatelliteDllsProjectOutputGroup" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "AssignTargetPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "AssignTargetPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForFxc" 대상("ContentFilesProjectOutputGroup" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "MakeDirsForFxc" 대상을 빌드했습니다.
+       조건이 잘못되어 "_CreateCopyFileItems" 대상을 건너뜁니다. ('@(CopyFileToFolders)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "ContentFilesProjectOutputGroup" 대상("CreateRecipeFile" 대상이 종속됨):
+       조건이 잘못되어 "AssignTargetPath" 작업을 건너뜁니다. ('@(ContentFilesProjectOutputGroupOutputFullPath)' != '' and '%(ContentFilesProjectOutputGroupOutputFullPath.RootFolder)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "AssignTargetPath" 작업을 건너뜁니다. ('@(ContentFilesProjectOutputGroupOutputFullPath)' != '' and '%(ContentFilesProjectOutputGroupOutputFullPath.RootFolder)' == '')이(가) ('' != '' and '' == '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "ContentFilesProjectOutputGroup" 대상을 빌드했습니다.
+       "GetReferencedVCProjectsInfo" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "CreateRecipeFile" 대상("_BuildLinkAction" 대상이 종속됨):
+       "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "GenerateDesktopDeployRecipe" 작업을 사용합니다.
+       "GenerateDesktopDeployRecipe" 작업
+       "GenerateDesktopDeployRecipe" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CreateRecipeFile" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_GenerateSatelliteAssemblyInputs" 대상("CreateSatelliteAssemblies" 대상이 종속됨):
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ManifestResourceWithCulture)'!='' and '%(ManifestResourceWithCulture.EmittedForCompatibilityOnly)'=='')이(가) (''!='' and ''=='')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ManifestNonResxWithCultureOnDisk)'!='' and '%(ManifestNonResxWithCultureOnDisk.EmittedForCompatibilityOnly)'=='')이(가) (''!='' and ''=='')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_GenerateSatelliteAssemblyInputs" 대상을 빌드했습니다.
+       조건이 잘못되어 "ComputeIntermediateSatelliteAssemblies" 대상을 건너뜁니다. (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '')이(가) ( != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "GenerateSatelliteAssemblies" 대상을 건너뜁니다. ('@(_SatelliteAssemblyResourceInputs)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "CreateSatelliteAssemblies" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CreateSatelliteAssemblies" 대상을 빌드했습니다.
+       조건이 잘못되어 "CopyLocalNativeReference" 대상을 건너뜁니다. ('$(CopyLocalProjectReference)' == 'true')이(가) ('false' == 'true')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_Appverifier" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_Appverifier" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_Deploy" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_Deploy" 대상을 빌드했습니다.
+       조건이 잘못되어 "ComputeIntermediateSatelliteAssemblies" 대상을 건너뜁니다. (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '')이(가) ( != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "_CopyFilesMarkedCopyLocal" 대상을 건너뜁니다. ('@(ReferenceCopyLocalPaths)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       "AssignTargetPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "AssignProjectConfiguration" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "_SplitProjectReferencesByFileExistence" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "_GetProjectReferenceTargetFrameworkProperties" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_PopulateCommonStateForGetCopyToOutputDirectoryItems" 대상("GetCopyToOutputDirectoryItems" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_PopulateCommonStateForGetCopyToOutputDirectoryItems" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets" 파일에 있는 "GetCopyToOutputDirectoryXamlAppDefs" 대상("GetCopyToOutputDirectoryItems" 대상이 종속됨):
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "GetCopyToOutputDirectoryXamlAppDefs" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "GetCopyToOutputDirectoryItems" 대상("_CopySourceItemsToOutputDirectory" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "CallTarget" 작업을 사용합니다.
+       "CallTarget" 작업
+       "_PopulateCommonStateForGetCopyToOutputDirectoryItems" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "_AddOutputPathToGlobalPropertiesToRemove" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" 대상("GetCopyToOutputDirectoryItems" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('@(_MSBuildProjectReferenceExistent)' != '' and '$(_GetChildProjectCopyToOutputDirectoryItems)' == 'true' and '%(_MSBuildProjectReferenceExistent.Private)' != 'false' and '$(UseCommonOutputDirectory)' != 'true')이(가) ('' != '' and 'true' == 'true' and '' != 'false' and 'false' != 'true')(으)로 확인되었습니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" 대상을 빌드했습니다.
+       "CallTarget" 작업을 실행했습니다.
+       "CallTarget" 작업
+       "AssignTargetPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "_PopulateCommonStateForGetCopyToOutputDirectoryItems" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_GetCopyToOutputDirectoryItemsFromThisProject" 대상("GetCopyToOutputDirectoryItems" 대상이 종속됨):
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_GetCopyToOutputDirectoryItemsFromThisProject" 대상을 빌드했습니다.
+       "CallTarget" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "GetCopyToOutputDirectoryItems" 대상을 빌드했습니다.
+       조건이 잘못되어 "_CopyOutOfDateSourceItemsToOutputDirectory" 대상을 건너뜁니다. ( '@(_SourceItemsToCopyToOutputDirectory)' != '' )이(가) ( '' != '' )(으)로 확인되었습니다.
+       조건이 잘못되어 "_CopyOutOfDateSourceItemsToOutputDirectoryAlways" 대상을 건너뜁니다. ( '@(_SourceItemsToCopyToOutputDirectoryAlways)' != '' )이(가) ( '' != '' )(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_CopySourceItemsToOutputDirectory" 대상("CopyFilesToOutputDirectory" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_CopySourceItemsToOutputDirectory" 대상을 빌드했습니다.
+       조건이 잘못되어 "_CopyAppConfigFile" 대상을 건너뜁니다. ( '@(AppConfigWithTargetPath)' != '' )이(가) ( '' != '' )(으)로 확인되었습니다.
+       조건이 잘못되어 "_CopyManifestFiles" 대상을 건너뜁니다. ( '$(_DeploymentCopyApplicationManifest)'=='true' or '$(GenerateClickOnceManifests)'=='true' )이(가) ( ''=='true' or ''=='true' )(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_CheckForCompileOutputs" 대상("CopyFilesToOutputDirectory" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_CheckForCompileOutputs" 대상을 빌드했습니다.
+       조건이 잘못되어 "_SGenCheckForOutputs" 대상을 건너뜁니다. ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto'))이(가) ('Auto' == 'On' or (''!='' and 'Auto' == 'Auto'))(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "CopyFilesToOutputDirectory" 대상("PrepareForRun" 대상이 종속됨):
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true')이(가) ('true' == 'true' and 'true' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "CopyRefAssembly" 작업을 건너뜁니다. ('$(ProduceReferenceAssembly)' == 'true' and '$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true')이(가) ('false' == 'true' and 'true' == 'true' and 'true' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)'!='true')이(가) ('true' == 'true' and 'true'!='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('@(AddModules)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('$(_SGenDllCreated)'=='true')이(가) ('false'=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('$(_DebugSymbolsProduced)'=='true' and '$(SkipCopyingSymbolsToOutputDirectory)' != 'true' and '$(CopyOutputSymbolsToOutputDirectory)'=='true')이(가) ('false'=='true' and '' != 'true' and 'true'=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('$(_DocumentationFileProduced)'=='true' and '$(CopyDocumentationFileToOutputDirectory)'=='true')이(가) ('false'=='true' and 'true'=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('@(IntermediateSatelliteAssembliesWithTargetPath)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('@(ReferenceComWrappersToCopyLocal)' != '' or '@(ResolvedIsolatedComModules)' != '' or '@(_DeploymentLooseManifestFile)' != '' or '@(NativeReferenceFile)' != '' )이(가) ('' != '' or '' != '' or '' != '' or '' != '' )(으)로 확인되었습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('$(SkipCopyWinMDArtifact)' != 'true' and '@(WinMDExpArtifacts)' != '')이(가) ('' != 'true' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('$(SkipCopyWinMDArtifact)' != 'true' and '$(_WindowsMetadataOutputPath)' != '')이(가) ('' != 'true' and '' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "CopyFilesToOutputDirectory" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "PrepareForRun" 대상("_BuildLinkAction" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PrepareForRun" 대상을 빌드했습니다.
+       조건이 잘못되어 "CustomBuildStep" 대상을 건너뜁니다. ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='')이(가) ('' != '' and ''=='')(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" 파일에 있는 "PostBuildEvent" 대상("_BuildLinkAction" 대상이 종속됨):
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('%(PostBuildEvent.Message)' != '' and '%(PostBuildEvent.Command)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('%(PostBuildEvent.Command)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "PostBuildEvent" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "_BuildLinkAction" 대상("BuildLink" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_BuildLinkAction" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildLink" 대상("Build" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "BuildLink" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "AfterBuild" 대상("Build" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterBuild" 대상을 빌드했습니다.
+       "_CheckForCompileOutputs" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "_SGenCheckForOutputs" 대상을 건너뜁니다. ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto'))이(가) ('Auto' == 'On' or (''!='' and 'Auto' == 'Auto'))(으)로 확인되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_CleanGetCurrentAndPriorFileWrites" 대상("IncrementalClean" 대상이 종속됨):
+       "ReadLinesFromFile" 작업
+       "ReadLinesFromFile" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "ConvertToAbsolutePath" 작업을 사용합니다.
+       "ConvertToAbsolutePath" 작업
+       "ConvertToAbsolutePath" 작업을 실행했습니다.
+       "FindUnderPath" 작업
+         비교 경로는 "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack"입니다.
+       "FindUnderPath" 작업을 실행했습니다.
+       "FindUnderPath" 작업
+         비교 경로는 "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\"입니다.
+       "FindUnderPath" 작업을 실행했습니다.
+       "FindUnderPath" 작업
+         비교 경로는 "x64\Release\"입니다.
+       "FindUnderPath" 작업을 실행했습니다.
+       "RemoveDuplicates" 작업
+       "RemoveDuplicates" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "_CleanGetCurrentAndPriorFileWrites" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "IncrementalClean" 대상("Build" 대상이 종속됨):
+       "FindUnderPath" 작업
+         비교 경로는 "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\x64\Release\"입니다.
+       "FindUnderPath" 작업을 실행했습니다.
+       "FindUnderPath" 작업
+         비교 경로는 "x64\Release\"입니다.
+       "FindUnderPath" 작업을 실행했습니다.
+       "Delete" 작업
+       "Delete" 작업을 실행했습니다.
+       "RemoveDuplicates" 작업
+       "RemoveDuplicates" 작업을 실행했습니다.
+       "WriteLinesToFile" 작업
+       "WriteLinesToFile" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "IncrementalClean" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" 파일에 있는 "FinalizeBuildStatus" 대상("Build" 대상이 종속됨):
+       "Delete" 작업
+         "x64\Release\A5-GMR-2.388e6a4f.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+       "Delete" 작업을 실행했습니다.
+       "Touch" 작업
+         "x64\Release\A5-GMR-2.388e6a4f.tlog\A5-GMR-2-Attack_WINDOWS.lastbuildstate"에 연결(touching)하고 있습니다.
+       "Touch" 작업을 실행했습니다.
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "FinalizeBuildStatus" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "Build" 대상("Rebuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "Build" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AfterRebuild" 대상("Rebuild" 대상이 종속됨):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "AfterRebuild" 대상을 빌드했습니다.
+       "_CheckForInvalidConfigurationAndPlatform" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트의 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" 파일에 있는 "Rebuild" 대상(진입점):
+     1>"A5-GMR-2-Attack.vcxproj" 프로젝트에 "Rebuild" 대상을 빌드했습니다.
+     1>"D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+       "D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\A5-GMR-2-Attack.vcxproj"(Rebuild 대상)(1) ->
+       (ClCompile 대상) -> 
+         D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\main.cpp(91,20): warning C4101: 'end' :참조되지 않은 지역 변수입니다.
+         D:\InsungKim\Ongoing_paper\ACM_SAC2026\work\Breaking_A5-GMR-2\_Experiment\Windows\A5-GMR-2-Attack\main.cpp(91,13): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+
+    경고 2개
+    오류 0개
+
+경과 시간: 00:00:01.14
