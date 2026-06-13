@@ -66,6 +66,10 @@ Contains results from D-Wave quantum computing experiments using quantum anneali
   - Executes repeated attacks using D-Wave quantum annealer
   - Requires D-Wave Ocean SDK and license
 
+### 'baseline_experiments'
+
+Contains results of classical baselines
+
 ## 🔑 Key Parameters
 
 - **KS1, KS2, KS3**: Different known keystream lengths used in the analysis
