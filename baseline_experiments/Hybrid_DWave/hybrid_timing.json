@@ -1,0 +1,26 @@
+{
+  "1": {
+    "qpu_access_ms": 102.5225,
+    "run_time_ms": 5329.25566,
+    "charge_time_ms": 5328.975060000001,
+    "client_wall_ms": 13460.9,
+    "n": 100,
+    "qpu_fraction_of_runtime_pct": 1.9237677180606494
+  },
+  "2": {
+    "qpu_access_ms": 102.24810000000001,
+    "run_time_ms": 5327.59079,
+    "charge_time_ms": 5327.453390000001,
+    "client_wall_ms": 13366.8,
+    "n": 100,
+    "qpu_fraction_of_runtime_pct": 1.919218348975335
+  },
+  "3": {
+    "qpu_access_ms": 104.11404999999999,
+    "run_time_ms": 5328.68927,
+    "charge_time_ms": 5328.553320000001,
+    "client_wall_ms": 13467.9,
+    "n": 100,
+    "qpu_fraction_of_runtime_pct": 1.9538397666786824
+  }
+}
