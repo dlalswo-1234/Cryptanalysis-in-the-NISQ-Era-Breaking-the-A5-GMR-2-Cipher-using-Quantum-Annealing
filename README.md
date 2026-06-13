@@ -23,6 +23,7 @@ Contains results from classical computing approaches for **Section 6.3 "On the R
 - **`Windows_check/`, `Linux_check/`**: C++ code for counting key candidates for all keystream lengths (for Windows, for Linux)
 
 #### Core Scripts
+- **`baseline_experiments`**: Python script for classical baseline and result analysis 
 - **`solve_parallel.py`**: Python script for data processing and result analysis
 
 #### Results and Visualizations
@@ -65,10 +66,6 @@ Contains results from D-Wave quantum computing experiments using quantum anneali
   - Converts cryptographic problems to QUBO (Quadratic Unconstrained Binary Optimization) format
   - Executes repeated attacks using D-Wave quantum annealer
   - Requires D-Wave Ocean SDK and license
-
-### 'baseline_experiments'
-
-Contains results of classical baselines
 
 ## 🔑 Key Parameters
 
