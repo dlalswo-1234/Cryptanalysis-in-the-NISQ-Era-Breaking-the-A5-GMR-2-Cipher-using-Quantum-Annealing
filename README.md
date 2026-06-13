@@ -11,6 +11,10 @@ This repository contains the implementation code and experimental results for qu
 
 ## 📁 Repository Structure
 
+### `baseline_experiments/`
+
+Contains python scripts for the **classical baseline** used to evaluate and compare against quantum annealing performance.
+
 ### `Results_on_Classical/`
 
 Contains results from classical computing approaches for **Section 6.3 "On the Reported Number of Key Candidates"**. This section analyzes key candidate distributions using traditional computational methods.
@@ -23,7 +27,6 @@ Contains results from classical computing approaches for **Section 6.3 "On the R
 - **`Windows_check/`, `Linux_check/`**: C++ code for counting key candidates for all keystream lengths (for Windows, for Linux)
 
 #### Core Scripts
-- **`baseline_experiments`**: Python script for classical baseline and result analysis 
 - **`solve_parallel.py`**: Python script for data processing and result analysis
 
 #### Results and Visualizations
